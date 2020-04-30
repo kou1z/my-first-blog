@@ -1,0 +1,8 @@
+{
+	"phpcs.standard": "PSR2"
+	"folders": [
+		{
+			"path": "../Documents/0html/kouroot/covid"
+		}
+	]
+}
